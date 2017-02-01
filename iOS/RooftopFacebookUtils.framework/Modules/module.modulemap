@@ -1,0 +1,6 @@
+framework module RooftopFacebookUtils {
+  umbrella header "RooftopFacebookUtils.h"
+
+  export *
+  module * { export * }
+}
